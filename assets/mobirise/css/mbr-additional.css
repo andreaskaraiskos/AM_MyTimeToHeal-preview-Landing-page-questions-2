@@ -710,6 +710,14 @@ iframe.lazy-placeholder,
 section.lazy-placeholder:after {
   opacity: 0.3;
 }
+.cid-s1wEnEeL2T {
+  padding-top: 120px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/damask-10300-2000x2838.png");
+}
+.cid-s1wEnEeL2T H1 {
+  color: #3b1d47;
+}
 .cid-rR4hC2h3A8 {
   padding-top: 30px;
   padding-bottom: 0px;
@@ -721,14 +729,6 @@ section.lazy-placeholder:after {
 .cid-rR4hC2h3A8 H2 {
   color: #2b0d38;
   text-align: center;
-}
-.cid-s1l2aN3S2q {
-  padding-top: 90px;
-  padding-bottom: 30px;
-  background-image: url("../../../assets/images/damask-10300-2000x2838.png");
-}
-.cid-s1l2aN3S2q H1 {
-  color: #3b1d47;
 }
 .cid-rSX56MfMME {
   padding-top: 45px;
